@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Your New Jekyll Site
+title: Mafiakitty Sailing Articles
 ---
 
 <div id="articles">
