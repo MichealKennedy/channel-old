@@ -15,7 +15,7 @@ navigation:
  - title: Home
    url: /index.html
  - title: Articles
-   url:/articles
+   url: /articles
  - title: Crew
    url: /crew
  - title: Boat
