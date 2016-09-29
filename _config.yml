@@ -14,19 +14,23 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: About
+   url: /about
  - title: Articles
    url: /articles
- - title: Crew
+ - title: Videos
+   url: /#coming-soon
+ - title: The Crew
    url: /crew
- - title: Boat
+ - title: The Boat
    url: /boat
  - title: Contact
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: michealkennedy
+   twitter: michealkennedy
+   facebook: michealkennedy
+   email: themafiakitty@gmail.com
 
 google_analytics: ""
