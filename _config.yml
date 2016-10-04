@@ -1,7 +1,7 @@
-title: Mafiakitty Sailing
+title: Mafia Kitty Sailing
 description: The adventures of Mike and Michelle.
 
-url: http://brianmaierjr.github.com/long-haul
+url: 
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -33,4 +33,4 @@ social:
    facebook: michealkennedy
    email: themafiakitty@gmail.com
 
-google_analytics: ""
+google_analytics: "UA-85169909-1"

@@ -1,13 +1,13 @@
 ---
 layout: default
-title: About Long Haul
+title: About Mafia Kitty Sailing
 ---
 
 <div class="post">
-	<h1 class="pageTitle">About Long Haul</h1>
+	<h1 class="pageTitle">About Mafia Kitty Sailing</h1>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">Long Haul is a minimal, long form <a href="http://jekyllrb.com">Jekyll</a> Theme. It can be used as is or customized to your hearts desire.</p>
-	<p>Long Haul was created in honor of all the hard working touring bicycles that have traversed the globe time and time again. Take it for a spin.</p>
+	<p class="intro">Our about page will go here.</p>
+	<p>Our plan to move onto a sailboat, live off the grid, sail all over the world, as frugally as possible.</p>
 	<h2>Features</h2>
 	<ul>
 		<li>Built with <a href="http://sass-lang.com/">SASS</a> + <a href="http://compass-style.org/">COMPASS</a></li>
