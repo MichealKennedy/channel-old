@@ -15,8 +15,4 @@ title: About Mafia Kitty Sailing
 			<li></li>
 			<li></li>
 	</ul> -->
-	<p>Our plan to move onto a sailboat, live off the grid, sail all over the world, as frugally as possible.</p>
-
-	<p>Our plan to move onto a sailboat, live off the grid, sail all over the world, as frugally as possible.</p>
-
 </div>
