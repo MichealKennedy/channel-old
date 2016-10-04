@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mafiakitty Sailing Articles
+title: Mafia Kitty Sailing Articles
 ---
 
 <div id="articles">
