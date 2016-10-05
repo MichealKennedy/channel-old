@@ -16,6 +16,8 @@ navigation:
    url: /index.html
  - title: About
    url: /about
+ - title: The Plan
+   url: /plan
  - title: Articles
    url: /articles
  - title: Videos
