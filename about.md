@@ -15,7 +15,7 @@ title: About Mafiakitty Sailing
 </p>
 
 <p>Through trial and error we will battle weather, dangerous wild animals, hunger, dehydration, sickness, running aground, isolation, language barriers, pirates, uncharted waters, and more. We'll stumble across isolated villages and towns, and couchsurf in cities all over the world. Each day will be a test of our relationship, our skills, and of our commitment to our ultimate goal: to travel around the world for as frugally and as long as possible.
-<p>
+</sp>
 	<!-- The Outline
 	<ul class="posts noList">
       <li></li>
