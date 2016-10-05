@@ -1,7 +1,7 @@
-title: Mafia Kitty Sailing
+title: Mafiakitty Sailing
 description: The adventures of Mike and Michelle.
 
-url: 
+url:
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
