@@ -7,10 +7,10 @@ title: About Mafiakitty Sailing
 	<h2 class="pageTitle">About Mafiakitty Sailing</h2>
 	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
 
-<p>We're depressed and dissatisfied with our lives. So we're buying a sailboat, and with little sailing experience, attempting to frugally sail around the world.
+<p class="intro">We're depressed and dissatisfied with our lives. So we're buying a sailboat, and with little sailing experience, attempting to frugally sail around the world.
 </p>
 
-<p>Each episode will follow us (<a href="/crew">Mike and Michelle</a>) as we sail, explore places, and try to survive off the grid. To supplement the food and water we have, we will fish, eat seaweed, and hike for hours into the bear and cougar infested woods to find freshwater, plants and berries.
+<p>Each episode will follow us (<a href="/crew">Mike and Michelle</a>) as we sail, explore places, and try to survive off the grid. To supplement the food and water we have, we will fish, eat seaweed, and hike for hours into the bear and cougar infested woods to find freshwater, plants and berries.</p>
 
 <p>We'll build our own shelters, primitive tools; collect, filter, and purify water; make our own soap, grow sprouts onboard, cut our own hair; etc.
 </p>
