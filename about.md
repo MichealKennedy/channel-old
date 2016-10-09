@@ -12,12 +12,12 @@ title: About Mafiakitty Sailing
 
 <p>Each episode will follow us (<a href="/crew">Mike and Michelle</a>) as we sail, explore places, and try to survive off the grid. To supplement the food and water we have, we will fish, eat seaweed, and hike for hours into the bear and cougar infested woods to find freshwater, plants and berries.
 
-<p>We will build our own shelters, primitive tools; collect, filter, and purify water; make our own soap, grow sprouts onboard, cut our own hair; etc.
+<p>We'll build our own shelters, primitive tools; collect, filter, and purify water; make our own soap, grow sprouts onboard, cut our own hair; etc.
 </p>
 
 <p>Through trial and error we will battle weather, dangerous wild animals, hunger, sickness, running aground, isolation, language barriers, pirates, uncharted waters, running out of fuel and electricity, and more.</p>
 
-<p>We'll stumble across isolated villages and towns, and couchsurf in cities all over the world. Each day will be a test of our relationship, our skills, and of our commitment to our ultimate goal: to travel all over the world while living on as little money per month as possible.
+<p>We'll stumble across isolated villages and towns, and couchsurf and do <a href="https://en.wikipedia.org/wiki/Hospitality_service" target="_blank">work exchanges</a> in cities all over the world. Each day will be a test of our relationship, our skills, and of our commitment to our ultimate goal: <strong>to travel all over the world while living on as little money per month as possible</strong>.
 </p>
 	<!-- The Outline
 	<ul class="posts noList">
