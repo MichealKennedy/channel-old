@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Example Post Formatting"
-date:   2014-12-15
+title:  "Website (And Everything) Under Construction"
+date:   2016-10-30
 comments: true
 ---
 
