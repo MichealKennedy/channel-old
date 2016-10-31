@@ -5,7 +5,7 @@ title: About Mafiakitty Sailing
 
 <div class="post">
 	<h2 class="pageTitle">About Mafiakitty Sailing</h2>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt="">
+	<img src="{{ '/assets/img/us-on-boat.png' | prepend: site.baseurl }}" alt="">
 
 <p class="intro">We're depressed and dissatisfied with our lives. So we're buying a sailboat, and with little sailing experience, attempting to frugally sail around the world.
 </p>
