@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "New Theme, Yay!"
+date:   2017-01-22 22:06:00 -0800
+author: Mike Kennedy
+---
+New theme, yay! The next couple weeks I'll finish up this theme, at least until it's good enough.
