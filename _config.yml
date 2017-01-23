@@ -3,7 +3,7 @@ title: "Mafiakitty Sailing"
 email: themafiakitty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Follow Mike and Michelle as they frugally sail around the world while trying to surive off the grid.
-baseurl: "/channel"
+baseurl: ""
 url: ""
 twitter_username: themafiakitty
 permalink: /:year/:month/:day/:title.html
