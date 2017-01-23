@@ -1,18 +1,42 @@
 ---
 layout: default
-title:  "Contact Us!"
+title:  "Contact Us"
 permalink: /contact
 ---
 Have a question, idea, concern, or just want to say hi? Let us know below.
 
-<form id="contactform" method="POST">
-    <input type="text" name="name" placeholder="Your name">
-    <input type="email" name="_replyto" placeholder="Your email">
-    <input type="hidden" name="_subject" value="MK Sailing Contact Form" />
-    <textarea name="message" placeholder="Your message"></textarea>
-    <input type="text" name="_gotcha" style="display:none" />
-    <input type="submit" value="Send">
-</form>
+<div class="row">
+      <div class="col-lg-6">
+          <form id="contactform" method="POST" role="form">
+          <input type="hidden" name="_subject" value="New submission!">
+          <input type="text" name="_gotcha" style="display:none">
+
+          <div class="form-group">
+            <label for="InputName">Your Name</label>
+            <input type="text" class="form-control" name="name" id="InputName" placeholder="Enter Name" required="">
+          </div>
+          <div class="form-group">
+            <label for="InputEmail">Your Email</label>
+
+            <input type="email" class="form-control" id="InputEmail" name="_replyto" placeholder="Enter Email" required="">
+          </div>
+          <div class="form-group">
+            <label for="InputMessage">Message</label>
+
+            <textarea name="InputMessage" id="InputMessage" class="form-control" rows="5" required=""></textarea>
+          </div>
+          <input type="submit" name="submit" id="submit" value="Submit" class="btn btn-info pull-right">
+      </form>
+    </div>
+
+    <hr class="hidden-lg">
+    <div class="col-lg-5 col-md-offset-1">
+        <h3>Other Methods</h3>
+        <p><a href="#">I'll add more here later.</a></p>
+        <p><a href="#">I'll add more here later.</a></p>
+    </div>
+  </div>
+
 <script>
     var contactform =  document.getElementById('contactform');
     contactform.setAttribute('action', '//formspree.io/' + 'themafiakitty' + '@' + 'gmail' + '.' + 'com');
