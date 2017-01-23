@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+	<body>
+		<div class="body">
+			{% include header.html %}
+
+			<div role="main" class="main">
+
+				<!-- <section class="page-header">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+								<ul class="breadcrumb">
+									<li><a href="#">Home</a></li>
+									<li class="active">Pages</li>
+								</ul>
+							</div>
+						</div>
+						<div class="row">
+							<div class="col-md-12">
+								<h1>Right Sidebar</h1>
+							</div>
+						</div>
+					</div>
+				</section> -->
+
+				<section class="page-header page-header-light page-header-more-padding">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-12">
+							 <h1>{{ page.title }} <span>Posted by {{ page.author }} on {{ page.date | date: '%B %d, %Y' }}</span></h1>
+								<!-- <ul class="breadcrumb breadcrumb-valign-mid">
+									<li><a href="#">Features</a></li>
+									<li class="active">Header Light</li>
+								</ul> -->
+							</div>
+						</div>
+					</div>
+				</section>
+
+				<div class="container">
+
+					<div class="row">
+						<div class="col-md-9">
+
+							<!-- <div class="row">
+								<div class="col-md-12">
+									<p class="lead">
+										Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla non pulvinar. Sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eu risus enim, ut pulvinar lectus. Sed hendrerit nibh metus.
+									</p>
+								</div>
+							</div>
+
+							<hr class="tall"> -->
+
+							<div class="row">
+								<div class="col-md-12">
+									{{ content }}
+								</div>
+							</div>
+
+						</div>
+
+						<div class="col-md-3">
+							{% include right-sidebar.html %}
+						</div>
+					</div>
+
+				</div>
+
+			</div>
+
+			{% include footer.html %}
+
+		</div>
+
+		<!-- Vendor -->
+		<script src="vendor/jquery/jquery.min.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+		<!-- Theme Base, Components and Settings -->
+		<script src="js/theme.js"></script>
+
+		<!-- Current Page Vendor and Views -->
+		<script src="js/views/view.home.js"></script>
+
+		<!-- Theme Custom -->
+		<script src="js/custom.js"></script>
+
+		<!-- Theme Initialization Files -->
+		<script src="js/theme.init.js"></script>
+
+		<!-- Analytics goes here -->
+
+	</body>
+</html>
