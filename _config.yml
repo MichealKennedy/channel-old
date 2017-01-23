@@ -1,9 +1,9 @@
 # Site Settings
-title: Mafiakitty Sailing
+title: "Mafiakitty Sailing"
 email: themafiakitty@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Follow Mike and Michelle as they frugally sail around the world while trying to surive off the grid.
-baseurl: ""
+baseurl: "/channel"
 url: "http://localhost:4000"
 twitter_username: themafiakitty
 permalink: /:year/:month/:day/:title.html
